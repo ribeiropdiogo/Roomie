@@ -1,4 +1,8 @@
-# Roomie
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32687881/122273712-a7995100-ced9-11eb-8119-3f9518470334.png">
+</p>
+
+## 📖 Description
 
 Roomie consists in a web platform where landlord can post their houses, and tenants can search for openings in houses. Each tenant has his evaluation scores that other users can access in order to decide if they want to live with them. Landlords can accept application or reject them. This repository contains all stages of developoment, from low-fidelity prototypes, to a fully functional production version.
 
